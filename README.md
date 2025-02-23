@@ -1,3 +1,3 @@
 # Demo
 
-Repository for Git tutorial
+Repository for Git tutorial.
